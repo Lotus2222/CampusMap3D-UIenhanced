@@ -1,0 +1,21 @@
+{
+  "name": "campus-map",
+  "version": "1.0.0",
+  "description": "校园3D地图导航系统",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0",
+    "pinia": "^2.1.0",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
